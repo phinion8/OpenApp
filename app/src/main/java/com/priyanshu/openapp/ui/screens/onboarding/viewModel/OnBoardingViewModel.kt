@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.onboarding.viewModel
+package com.priyanshu.openapp.ui.screens.onboarding.viewModel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

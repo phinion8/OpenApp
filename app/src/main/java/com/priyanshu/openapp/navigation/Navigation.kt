@@ -8,8 +8,8 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import com.priyanshu.openapp.ui.screens.splash.SplashScreen
-import com.priyanshu.openapp.ui.screens.splash.links.LinksScreen
-import com.priyanshu.openapp.ui.screens.splash.onboarding.OnBoardingScreen
+import com.priyanshu.openapp.ui.screens.links.LinksScreen
+import com.priyanshu.openapp.ui.screens.onboarding.OnBoardingScreen
 import kotlin.math.truncate
 
 @Composable

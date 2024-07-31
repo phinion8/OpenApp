@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.links.components
+package com.priyanshu.openapp.ui.screens.links.components
 
 sealed class LinkChipItems(val id: String) {
     data object TopLinks : LinkChipItems(id = "top_links")

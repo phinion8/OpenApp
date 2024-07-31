@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.links
+package com.priyanshu.openapp.ui.screens.links
 
 import androidx.annotation.DrawableRes
 import androidx.compose.animation.AnimatedVisibility
@@ -54,11 +54,11 @@ import androidx.hilt.navigation.compose.hiltViewModel
 import coil.compose.AsyncImage
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 import com.priyanshu.openapp.R
-import com.priyanshu.openapp.ui.screens.splash.links.components.LinkChipItems
-import com.priyanshu.openapp.ui.screens.splash.links.components.LinksGraph
-import com.priyanshu.openapp.ui.screens.splash.links.components.LinksLoadingLayout
-import com.priyanshu.openapp.ui.screens.splash.links.components.graphData
-import com.priyanshu.openapp.ui.screens.splash.links.viewmodel.LinksViewModel
+import com.priyanshu.openapp.ui.screens.links.components.LinkChipItems
+import com.priyanshu.openapp.ui.screens.links.components.LinksGraph
+import com.priyanshu.openapp.ui.screens.links.components.LinksLoadingLayout
+import com.priyanshu.openapp.ui.screens.links.components.graphData
+import com.priyanshu.openapp.ui.screens.links.viewmodel.LinksViewModel
 import com.priyanshu.openapp.ui.theme.blue
 import com.priyanshu.openapp.ui.theme.gray
 import com.priyanshu.openapp.ui.theme.lightGray

@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.links.components
+package com.priyanshu.openapp.ui.screens.links.components
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Column

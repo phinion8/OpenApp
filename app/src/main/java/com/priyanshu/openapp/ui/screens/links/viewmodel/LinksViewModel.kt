@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.links.viewmodel
+package com.priyanshu.openapp.ui.screens.links.viewmodel
 
 import androidx.compose.runtime.mutableStateListOf
 import androidx.lifecycle.ViewModel

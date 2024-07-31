@@ -1,4 +1,4 @@
-package com.priyanshu.openapp.ui.screens.splash.onboarding
+package com.priyanshu.openapp.ui.screens.onboarding
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -21,7 +21,7 @@ import com.priyanshu.openapp.navigation.Screens
 import com.priyanshu.openapp.ui.components.ShowLottieAnimation
 import com.priyanshu.openapp.ui.theme.lightGray
 import com.priyanshu.openapp.ui.components.CustomElevatedButton
-import com.priyanshu.openapp.ui.screens.splash.onboarding.viewModel.OnBoardingViewModel
+import com.priyanshu.openapp.ui.screens.onboarding.viewModel.OnBoardingViewModel
 
 @Composable
 fun OnBoardingScreen(
